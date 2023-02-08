@@ -1,0 +1,13 @@
+{
+  "name": "movevee-api",
+  "description": "An mordern APIs for accessing movies information using flixhq-core.",
+  "repository": "https://github.com/shin202/movevee-api",
+  "logo": "https://raw.githubusercontent.com/shin202/movevee-api/main/src/assets/images/logo.png",
+  "keywords": ["node", "node-js", "express", "typescript", "api", "apis", "movies", "scraper"],
+  "env": {
+    "PORT": {
+      "description": "Set PORT for the express application to run on",
+      "value": "8000"
+    }
+  }
+}
