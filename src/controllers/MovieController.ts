@@ -168,9 +168,10 @@ class MovieController {
   public filter = async (req: Request, res: Response) => {
     const options = req.query as IMovieFilter;
     const { type, quality, released, genre, country } = options;
+    const page = (req.query as unknown as { page: number }).page;
 
     try {
-      const data = await this.flixhq.filter({ type, quality, released, genre, country });
+      const data = await this.flixhq.filter({ type, quality, released, genre, country }, page);
       this.ApiResponse.successResponse(res, data, "Successfully fetched movies/tv-shows!");
     } catch (err) {
       this.ApiResponse.serverErrorResponse(res);
