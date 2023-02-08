@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: movevee-api
+    env: docker
+    repo: https://github.com/shin202/movevee-api.git
+    plan: free
+    branch: main
+    envVars:
+      - key: PORT
+        value: 8000
