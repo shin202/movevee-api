@@ -13,7 +13,7 @@
    <a href="https://github.com/shin202/movevee-api/issues">
       <img src="https://img.shields.io/github/issues/shin202/movevee-api.svg?style=for-the-badge">
    </a>
-   <a href="https://github.com/shin202/movevee-api/blob/main/LICENSE">
+   <a href="https://github.com/shin202/movevee-api/blob/main/LICENSE.txt">
       <img src="https://img.shields.io/github/license/shin202/movevee-api.svg?style=for-the-badge">
    </a>
 </h1>
