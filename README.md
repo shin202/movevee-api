@@ -13,7 +13,7 @@
    <a href="https://github.com/shin202/movevee-api/issues">
       <img src="https://img.shields.io/github/issues/shin202/movevee-api.svg?style=for-the-badge">
    </a>
-   <a href="https://github.com/shin202/movevee-api/blob/main/LICENSE.txt">
+   <a href="https://github.com/shin202/movevee-api/blob/main/LICENSE">
       <img src="https://img.shields.io/github/license/shin202/movevee-api.svg?style=for-the-badge">
    </a>
 </h1>
@@ -31,7 +31,7 @@
     <a href="https://documenter.getpostman.com/view/18865685/2s935pr3wV"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="#">View Demo</a>
     ·
     <a href="https://github.com/shin202/movevee-api/issues">Report Bug</a>
     ·
